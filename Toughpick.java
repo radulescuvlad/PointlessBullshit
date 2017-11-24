@@ -1,7 +1,7 @@
 public enum Toughpick {
 	Adept,
 	Alleys,
-	Alligatros,
+	Alligators,
 	Altars,
 	Ambushes,
 	Amulets,
